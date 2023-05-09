@@ -1,0 +1,65 @@
+h1 {
+    color: coral;
+    font-size: 20mm;
+    padding: 0;
+    text-align: right;
+}
+
+h2 {
+    color: green;
+    font-size: 20mm;
+    text-align: right;
+}
+
+h3 {
+    font-size: 8mm;
+}
+
+.content {
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/99/24/yellow-background-with-vintage-movie-camera-vector-20659924.jpg");
+    background-size: cover;
+    padding: 5%;
+    margin-top: 0%;
+}
+
+#picture1 {
+    height: 15mm;
+    width: 15mm;
+}
+
+#cont {
+    font-family: 'Times New Roman';
+    font-size: 6mm;
+    margin: 0%;
+    padding: 0%;
+    text-align: justify;
+    border-spacing: 5mm;
+    display: inline-block;
+    margin-top: 0%;
+    padding-top: 0%;
+    word-spacing: normal;
+
+}
+
+li {
+    font-size: 8mm;
+    font-family: 'Lucida Calligraphy';
+    text-align: right;
+    
+
+}
+.box{
+    height: 100px;
+    width: 100px;
+    align-content: center;
+    border: 1px solid lightgrey;
+    display: inline-flex;
+    padding: auto;
+    padding-right: 5%;
+    flex-grow: 4;
+    flex-basis: 10px;
+}
+
+#pics{
+    margin-left: 25px;
+}
